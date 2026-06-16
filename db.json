@@ -1,0 +1,125 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Pelli Choopulu",
+      "hero": "Vijay Deverakonda",
+      "heroine": "Ritu Varma",
+      "year": "2016",
+      "genre": "Romantic Comedy",
+      "rating": 9.2,
+      "director": "Tharun Bhascker",
+      "image": "https://images.justwatch.com/poster/332397071/s718/pellichoopulu.jpg",
+      "description": "A refreshing love story between an aspiring chef and an independent entrepreneur."
+    },
+    {
+      "id": 2,
+      "title": "Ante Sundaraniki",
+      "hero": "Nani",
+      "heroine": "Nazriya Nazim",
+      "year": "2022",
+      "genre": "Romantic Comedy",
+      "rating": 9.0,
+      "director": "Vivek Athreya",
+      "image": "https://th-i.thgim.com/public/incoming/h5yzxz/article65513988.ece/alternates/FREE_1200/ante%20sundaraniki%204.jpg",
+      "description": "A hilarious tale of interfaith love and family drama."
+    },
+    {
+      "id": 3,
+      "title": "Oohalu Gusagusalade",
+      "hero": "Naga Shaurya",
+      "heroine": "Raashi Khanna",
+      "year": "2014",
+      "genre": "Romantic Comedy",
+      "rating": 8.8,
+      "director": "Srinivas Avasarala",
+      "image": "https://c.saavncdn.com/243/Oohalu-Gusagusalade-Telugu-2014-20240802162328-500x500.jpg",
+      "description": "A sweet romantic entertainer filled with witty conversations."
+    },
+    {
+      "id": 4,
+      "title": "Kushi",
+      "hero": "Pawan Kalyan",
+      "heroine": "Bhumika Chawla",
+      "year": "2001",
+      "genre": "Romantic Comedy",
+      "rating": 9.5,
+      "director": "S. J. Surya",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/1164e92e106422a535609f1ca566e2cdccf2215c8cc41b18ec9a60cbc680a933.jpg",
+      "description": "One of Telugu cinema's most iconic romantic entertainers."
+    },
+    {
+      "id": 5,
+      "title": "Sammohanam",
+      "hero": "Sudheer Babu",
+      "heroine": "Aditi Rao Hydari",
+      "year": "2018",
+      "genre": "Romantic Drama",
+      "rating": 8.9,
+      "director": "Mohan Krishna Indraganti",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/2a30b5838e7197c26d04c86f9d45f5c5c8eeb038a3c552ae27960cc36e9ce7d2.jpg",
+      "description": "A charming story about love beyond perceptions."
+    },
+    {
+      "id": 6,
+      "title": "Hi Nanna",
+      "hero": "Nani",
+      "heroine": "Mrunal Thakur",
+      "year": "2023",
+      "genre": "Romantic Drama",
+      "rating": 9.1,
+      "director": "Shouryuv",
+      "image": "https://c.saavncdn.com/253/Hi-Nanna-Telugu-Telugu-2023-20240109191037-500x500.jpg",
+      "description": "An emotional story of love, family and second chances."
+    },
+    {
+      "id": 7,
+      "title": "Ala Modalaindi",
+      "hero": "Nani",
+      "heroine": "Nithya Menen",
+      "year": "2011",
+      "genre": "Romantic Comedy",
+      "rating": 8.7,
+      "director": "Nandini Reddy",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8505003_v_v11_aa.jpg",
+      "description": "A fun and heartwarming romantic journey."
+    },
+    {
+      "id": 8,
+      "title": "Ye Maaya Chesave",
+      "hero": "Naga Chaitanya",
+      "heroine": "Samantha",
+      "year": "2010",
+      "genre": "Romantic Drama",
+      "rating": 9.3,
+      "director": "Gautham Vasudev Menon",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRhMGY3YmMtZTQ4YS00ZTZkLWE2ODAtMGZmMTMxYjYwMDY4XkEyXkFqcGc@._V1_QL75_UY281_CR54,0,190,281_.jpg",
+      "description": "A timeless romantic classic loved by Telugu audiences."
+    },
+    {
+      "id": 9,
+      "title": "Nuvvu Naaku Nachav",
+      "hero": "Venkatesh",
+      "heroine": "Aarthi Agarwal",
+      "year": "2001",
+      "genre": "Romantic Comedy",
+      "rating": 9.8,
+      "director": "K. Vijaya Bhaskar",
+      "image": "https://images.justwatch.com/poster/323373026/s718/nuvvu-naaku-nachav.jpg",
+      "description": "The gold standard of Telugu romantic comedy movies."
+    },
+    {
+      "id": 10,
+      "title": "Uyyala Jampala",
+      "hero": "Raj Tarun",
+      "heroine": "Avika Gor",
+      "year": "2013",
+      "genre": "Romantic Comedy",
+      "rating": 8.6,
+      "director": "Virinchi Varma",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/P7m3GNKqxo/7m3G5mG8bq/size_m.webp",
+      "description": "A village love story packed with humor and emotions."
+    }
+  ],
+  "users": []
+}
